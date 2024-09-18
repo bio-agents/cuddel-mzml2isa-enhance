@@ -1,0 +1,4 @@
+Source Name	Material Type	Term Source REF	Term Accession Number	Protocol REF	Parameter Value[run order]	Parameter Value[collection event rank]	Date	Performer	Sample Name	Characteristics[organism part]	Term Source REF	Term Accession Number	Factor Value[AGENT]	Factor Value[INTENSITY]	Factor Value[DURATION]
+Group-001.Subject-001	specimen	OBI	0100051	sample collection	003	1	2018-08-02	Carol	Group-001.Subject-001.blood.3	blood	UBERON	0000178	aspirin	low dose	t0
+Group-001.Subject-001	specimen	OBI	0100051	sample collection	001	1	2018-08-02	Carol	Group-001.Subject-001.blood.1	blood	UBERON	0000178	aspirin	low dose	t0
+Group-001.Subject-001	specimen	OBI	0100051	sample collection	002	1	2018-08-02	Carol	Group-001.Subject-001.blood.2	blood	UBERON	0000178	aspirin	low dose	t0

@@ -1,0 +1,8 @@
+{
+  "A100_LC_negative_001_001.mzml": "Person02_blood_youth_NEG",
+  "A100_LC_negative_002_001.mzml": "Person04_blood_youth_NEG",
+  "A100_LC_negative_003_001.mzml": "Person05_blood_elder_NEG",
+  "A100_LC_positive_001_001.mzml": "Person01_blood_youth_POS",
+  "A100_LC_positive_002_001.mzml": "Person05_blood_elder_POS",
+  "A100_LC_positive_003_001.mzml": "Person12_blood_youth_POS"
+}
