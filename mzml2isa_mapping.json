@@ -1,8 +1,3 @@
-{
-  "A100_LC_negative_001_001.mzml": "Person02_blood_youth_NEG",
-  "A100_LC_negative_002_001.mzml": "Person04_blood_youth_NEG",
-  "A100_LC_negative_003_001.mzml": "Person05_blood_elder_NEG",
-  "A100_LC_positive_001_001.mzml": "Person01_blood_youth_POS",
-  "A100_LC_positive_002_001.mzml": "Person05_blood_elder_POS",
-  "A100_LC_positive_003_001.mzml": "Person12_blood_youth_POS"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e52b17749d800ec360f4269ff0963c89c368c32fdaf84f7a4be9e4e06af75992
+size 381
